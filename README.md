@@ -7,6 +7,8 @@ Main purpose of this project is to create fast, cross-platform game with differe
 
 ## Current Status
 
-Voxelite is under development inside of private repository until it has the core ready-ish for presentation.
+Voxelite is under development inside of private repositories until good-enough working prototype is created.
 
-Main requirement is rendering of world to show base capabilities of the engine.
+The project is already split into multiple components (repositories) to keep better control over different parts of the project.
+
+It is also blocked by development of AWEngine from [GrayMadness](https://github.com/graymadness) as it is the Game Engine (Low-Level API) the project is using.
